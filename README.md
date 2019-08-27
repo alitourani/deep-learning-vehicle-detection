@@ -10,7 +10,7 @@ The input of the system can be a single or set of vehicle images for training/te
 ![](http://alitourani.ir/wp-content/uploads/Fig-Results.jpg)
 
 ## Environment
-The project is implemented by MATLAB 2018 with the aird of its deep learning libraries.
+The project is implemented by MATLAB 2018 with the aid of its deep learning libraries. There are several standard datasets to train/test the project like the Cars Dataset by Stanford Artificial Intelligence Library ([link](https://ai.stanford.edu/~jkrause/cars/car_dataset.html "link")) and other standard real condition vehicle datasets.
 
 ## Publications and CopyRight
 We have presented the architecture, experiments and calibration settings in below paper:

@@ -7,7 +7,7 @@ This project is a vehicle detection application for vision-based Intelligent Tra
 
 ## Inputs/Outputs of the System
 The input of the system can be a single or set of vehicle images for training/testing purposes. The ouput of the system is the same image(s) with visual bounding-boxes to cover vehicle inside the image. Sample result can be seen in below image:
-![](http://alitourani.ir/wp-content/uploads/Fig-Results.jpg)
+![](https://drive.google.com/open?id=18MWnor2N0qc7BxrMbfWAxvAxIOHJDTD-)
 
 ## Environment
 The project is implemented by MATLAB 2018 with the aid of its deep learning libraries. There are several standard datasets to train/test the project like the Cars Dataset by Stanford Artificial Intelligence Library ([link](https://ai.stanford.edu/~jkrause/cars/car_dataset.html "link")) and other standard real condition vehicle datasets.

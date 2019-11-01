@@ -1,4 +1,4 @@
-# Vehicle Detection based on Faster R-CNNVehicle Detection based on Faster R-CNN
+# Vehicle Detection based on Faster R-CNN
 This project is a vehicle detection application for vision-based Intelligent Transportation Systems (ITS). These systems utilize roadway camera outputs to apply video processing techniques and extract the desired information, which is vehicles' visual features in this special case. This approach is able to estimate the vehicles' speed by their motion features (in case a correct calibration is provided). Thus by analyzing each vehicle's motion parameters inside a pre-defined Region of Interest (ROI), the amount of displacement in sequential frames are provided, which is an essential parameter to calculate instantaneous speed.
 
 ## Algorithms/Architectures

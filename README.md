@@ -16,5 +16,17 @@ The input of the system can be a single or set of vehicle images for training/te
 The project is implemented by MATLAB 2018 with the aid of its deep learning libraries. There are several standard datasets to train/test the project like the Cars Dataset by Stanford Artificial Intelligence Library ([link](https://ai.stanford.edu/~jkrause/cars/car_dataset.html "link")) and other standard real condition vehicle datasets.
 
 ## Publications and CopyRight
-We have presented the architecture, experiments and calibration settings in below paper:
-1. Ali Tourani, Sajjad Soroori, Asadollah Shahbahrami, Saeed Khazaee and Alireza Akoushideh "A Robust Vehicle Detection Approach based on Faster R-CNN Algorithm," 4th International Conference on Pattern Recognition and Image Analysis, Tehran, Iran, 2019 ([link](https://www.researchgate.net/publication/332514563_A_Robust_Vehicle_Detection_Approach_based_on_Faster_R-CNN_Algorithm "link")).
+
+We have presented the architecture, experiments and calibration settings in the paper below:
+
+```
+@inproceedings{Tourani2019,
+	author = {Tourani, Ali and Soroori, Sajjad and Shahbahrami, Asadollah and Khazaee, Saeed and Akoushideh, Alireza},
+	title = {{A Robust Vehicle Detection Approach based on Faster R-CNN Algorithm}},
+	booktitle = {4th International Conference on Pattern Recognition and Image Analysis, IPRIA 2019},
+	doi = {10.1109/PRIA.2019.8785988},
+	isbn = {9781728116211},
+	pages = {119--123},
+	year = {2019}
+}
+```
